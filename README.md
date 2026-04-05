@@ -1,4 +1,4 @@
-# 🛡️ Threat-Intel-Pipeline: Automated SOC Assistant 🚀
+# 🛡️ Threat-Intel-Pipeline
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python)
 ![SQLite](https://img.shields.io/badge/SQLite-Database-lightgrey?style=for-the-badge&logo=sqlite)
